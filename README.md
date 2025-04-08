@@ -79,7 +79,7 @@ Before installing Genesis Agent, ensure you have the following prerequisites:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/genesis-agent.git
+git clone https://github.com/your-username/genesis_agent.git
 cd genesis-agent
 ```
 
