@@ -79,8 +79,8 @@ Before installing Genesis Agent, ensure you have the following prerequisites:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/genesis_agent.git
-cd genesis-agent
+git clone https://github.com/B-Wear/genesis_agent.git
+cd genesis_agent
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
